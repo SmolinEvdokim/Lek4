@@ -1,0 +1,15 @@
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\recursionAlg.csproj.AssemblyReference.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\recursionAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\recursionAlg.AssemblyInfoInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\recursionAlg.AssemblyInfo.cs
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\recursionAlg.csproj.CoreCompileInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\bin\Debug\net6.0\recursionAlg.exe
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\bin\Debug\net6.0\recursionAlg.deps.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\bin\Debug\net6.0\recursionAlg.runtimeconfig.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\bin\Debug\net6.0\recursionAlg.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\bin\Debug\net6.0\recursionAlg.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\recursionAlg.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\refint\recursionAlg.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\recursionAlg.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\recursionAlg.genruntimeconfig.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\Lek4\recursionAlg\obj\Debug\net6.0\ref\recursionAlg.dll
